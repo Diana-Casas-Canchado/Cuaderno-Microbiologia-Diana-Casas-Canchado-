@@ -30,7 +30,7 @@ Plantilla digital para documentar, interpretar y comunicar el trabajo práctico 
 | Nombre y apellidos | **Diana Casas Canchado** |
 | Grupo | **2⁰LCB** |
 | Módulo profesional | **Microbiología** |
-| Curso académico | **[2026–2027]** |
+| Curso académico | **2026–2027** |
 | Centro educativo | **IES SAENZ DE BURUAGA** |
 | Profesor/a | **Antonio Paredes De la sal** |
 | Fecha de inicio | **17/09/2026** |
