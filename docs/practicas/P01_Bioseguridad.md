@@ -161,9 +161,9 @@ No existe una zona específica para la recepción de la muestra, se trata de una
 |---|---|---|---|
 | Zona y señalización analizadas | No existe ninguna señalización que nos indique algún pelgro | No  |  |
 | Recepción e identificación trazables | No existe registro o docuentación más allá del cuaderno de prácticas| No | |
-| Derrame contenido y descontaminado | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Residuos procesados y eliminados correctamente | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Registro y comunicación final | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Derrame contenido y descontaminado | Derrame de parte de la muestra y limpieza con papel absorvente| Sí |  |
+| Residuos procesados y eliminados correctamente | Derrame de parte de la muestra | No | No se encuentran residuos peligrosos que eliminar |
+| Registro y comunicación final | Una vez se a observado el derrame, se lleva a cabo la limpieza y se informa al profesor| Sí | |
 
 ### 9.2 Resultado principal de la práctica
 
@@ -179,59 +179,59 @@ Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepc
 
 ![Preparación o selección de EPI](../assets/P01/preparacion_o_seleccion_de_epi_01.jpg)
 
-- **Pie de foto:** [Qué se observa y qué medida preventiva demuestra]
-- **Autoría y origen:** [Propia / compartida con tu pareja / material docente autorizado]
-- **Momento del procedimiento:** [Completa]
+- **Pie de foto:** EPI de seguridad formado por una bata de laboratorio y unos guantes de latex
+- **Autoría y origen:** Generada por Gemini
+- **Momento del procedimiento:** Antes de empezar la práctica
 
 ### Imagen 2 — Recepción correcta de la muestra
 
 ![Recepción correcta de la muestra](../assets/P01/recepcion_correcta_de_la_muestra_02.jpg)
 
-- **Pie de foto:** [Qué se observa: documentación, identificación, integridad, recipiente secundario o zona de recepción]
-- **Comprobación técnica asociada:** [Explica por qué la recepción es conforme o por qué la muestra se aislaría]
-- **Momento del procedimiento:** [Completa]
+- **Pie de foto:** Zona de recepción
+- **Comprobación técnica asociada:** La recepción es realizada en el laboratorio del instituto
+- **Momento del procedimiento:** Antes de empezar la práctica 
 
 ### Imagen 3 — Workflow o ciclo habitual de una muestra
 
 ![Workflow o ciclo habitual de una muestra](../assets/P01/workflow_del_ciclo_de_la_muestra_03.jpg)
 
-- **Pie de figura:** [Describe las fases representadas: recepción, identificación, procesamiento, almacenamiento o eliminación]
-- **Origen y autorización:** [Esquema propio / material docente autorizado / otra fuente; indica cuál]
-- **Relación con el procedimiento:** [Explica qué fase de la práctica se conecta con el ciclo]
+- **Pie de figura:** La muestra es recogida del propo paciente o entorno, se lleva al laboratorio donde se identica correctamente mediante un código de registro, seguidamente se analiza, se comprueban y verifican los resultados, una vez que el médico o facultativo da su visto bueno, se almacena correctamente y cuando se precise, se elimina siguiendo el procedimiento adecuado 
+- **Origen y autorización:** Generado por Gemini
+- **Relación con el procedimiento:** Durante la práctica se realiza la identificación y eliminación de la muestra
 
 ### Imagen 4 — Simulación del derrame y respuesta inicial
 
 ![Simulación del derrame y respuesta inicial](../assets/P01/simulacion_de_derrame_04.jpg)
 
-- **Pie de foto:** [Qué se observa: señalización, contención, absorbente o aplicación del desinfectante]
-- **Medida crítica demostrada:** [Explica qué riesgo se controla]
-- **Momento del procedimiento:** [Completa]
+- **Pie de foto:** Absorción del derrame
+- **Medida crítica demostrada:** Derrame de una muestra
+- **Momento del procedimiento:** Tras el derrame
 
 ### Imagen 5 — Procesamiento y eliminación correcta de la muestra
 
 ![Procesamiento y eliminación correcta de la muestra](../assets/P01/procesamiento_y_eliminacion_de_la_muestra_05.jpg)
 
-- **Pie de foto:** [Qué residuo se procesa, en qué recipiente se deposita y qué tratamiento se aplica]
-- **Ruta autorizada:** [Completa según el protocolo del centro]
-- **Relación con la trazabilidad:** [Explica qué registro o decisión respalda]
+- **Pie de foto:** Limpieza del derrame
+- **Ruta autorizada:** Con ayuda de papel absorvente, se recoge y limpia el derrame
+- **Relación con la trazabilidad:** Se le informa al profesor
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| Derrame de la muestra | Descuido o despiste del técniico | Limpieza del derrame |  No; ya que solo se ha perdido una pequeña parte de la muestra |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta los resultados de la práctica. Relaciona el análisis de la zona, la recepción de la muestra, el EPI seleccionado, la respuesta al derrame y el procesamiento de residuos. Justifica tus decisiones con el PNT del centro o, si no existe, con el manual de la OMS enlazado en el apartado 4.
 
-[Escribe aquí tu interpretación técnica.]
+La práctica nos enseña a qué hacer en caso de que haya algún derrame, también nos enseña a la elliminación de muestras, sean biológicas o no, ya que dependiendo del tipo de muestra deberemos aliminarlas de diferentes formas.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de la práctica y qué evidencias concretas lo demuestran. Menciona también alguna limitación de la simulación o de la actividad realizada.
 
-[Escribe aquí tu conclusión.]
+Hemos alcanzado el objetivo principal de la práctica, ya que hemos simulado un derrame y hemos aprendido a como eliminarlo.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -239,26 +239,26 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué comprobación de la recepción o del derrame consideraste más crítica para evitar una exposición o contaminación, y cómo verificaste que se realizó correctamente?
 
-   [Respuesta del alumnado]
+   El uso adecuado del EPI, para evitar que haya un contacto directo del técnico con la muestra derramada
 
 2. **Interpretación:** Ante el derrame simulado, ¿qué indicios utilizaste para decidir la contención, la descontaminación y el circuito de residuos? Explica por qué descartaste otras opciones.
 
-   [Respuesta del alumnado]
+   Se observa un derrame en el recipiente en el que tenemos el recipiente primario que contiene la muestra, seguidamente, se limpia con papel absorvente y se desecha en la papelera de residuos urbanos, ya que la muestra no es de riesgo biológico importante
 
 3. **Conclusiones:** ¿Qué evidencia demuestra con mayor claridad que la muestra fue recibida, procesada o eliminada de forma segura y trazable? Justifica la elección.
 
-   [Respuesta del alumnado]
+   Las imágenes adjuntadas anteriormente
 
 4. **Aprendizaje y transferencia:** ¿Qué hábito concreto aplicarás en las próximas prácticas de microbiología y cómo ayudará a prevenir errores o riesgos reales?
 
-   [Respuesta del alumnado]
+   Identifiicación del riesgo de la muestra y correcta eliminación de esta
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P01` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 23/09/2026 |
 | UD / RA / CE | `UD1 / RA01 / CE01.a–CE01.i` |
 | Agrupamiento | [Individual / pareja / equipo; especifica] |
 | Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
@@ -267,6 +267,6 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
 | Ruta de residuos aplicada | [Completa]
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Estado de entrega | Entregado  |
 
 ---
