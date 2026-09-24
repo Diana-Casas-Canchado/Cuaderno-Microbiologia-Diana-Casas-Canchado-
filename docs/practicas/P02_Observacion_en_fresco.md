@@ -132,7 +132,7 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 - **Fecha real de realización:** 24/0/2026
 - **Grupo:** 2ºLCB
 - **Pareja de trabajo, si procede:** Pablo Molano Sánchez y Diana Casas Canchado
-- **Rol o tarea principal que realizaste:** 
+- **Rol o tarea principal que realizaste:** Peparadora de los frescos
 - **Modalidad realmente realizada:** Muestra ambiental autorizada
 - **Código o descripción de la muestra/material docente:** Muestra de agua estancada en un tubo Eppendolf
 
@@ -142,11 +142,11 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad segura de la muestra | [Completa] |
-| Estado del portaobjetos y cubreobjetos | [Completa] |
-| Material y equipo efectivamente utilizados | [Completa] |
-| Aumento(s) utilizado(s) | [Completa] |
-| Medidas de seguridad aplicadas | [Completa] |
+| Autorización o modalidad segura de la muestra | Instrucciones del cuaderno de prácticas |
+| Estado del portaobjetos y cubreobjetos | Correctos |
+| Material y equipo efectivamente utilizados | Portaobjetos, cubreobjetos, microscopio, centrrífuga |
+| Aumento(s) utilizado(s) | 4x, 10x, 40x |
+| Medidas de seguridad aplicadas | Uso de EPI |
 
 ### 8.2 Hipótesis u observación inicial
 
@@ -160,10 +160,10 @@ Espero encontrar múltiples microorganismos patógenos y no patógenos
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Preparación limpia y sin burbujas que impidan la lectura | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Enfoque e iluminación adecuados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Campo observado de forma sistemática | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Movimiento diferenciado de corrientes o artefactos | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Preparación limpia y sin burbujas que impidan la lectura | Presencia de burbujas y suciedad | No | No hay presencia de microorganismos |
+| Enfoque e iluminación adecuados | La luz permite observar correctamente y la lente se enfoca correctamente | Sí | |
+| Campo observado de forma sistemática |  | Sí |  |
+| Movimiento diferenciado de corrientes o artefactos |  | No |  |
 
 ### 9.2 Registro de hallazgos
 
@@ -180,7 +180,7 @@ Espero encontrar múltiples microorganismos patógenos y no patógenos
 
 Resume los hallazgos más relevantes y especifica qué resultado procede de observación real, preparación segura, imagen docente o vídeo.
 
-[Escribe aquí el resultado principal.]
+No se encontraron microorganismos
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
