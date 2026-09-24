@@ -128,13 +128,13 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Muestra ambiental autorizada / preparación comercial segura / vídeo microscópico / otra; descríbela]
-- **Código o descripción de la muestra/material docente:** [Completa sin incluir datos personales o clínicos]
+- **Nombre y apellidos:** Diana Casas Canchado
+- **Fecha real de realización:** 24/0/2026
+- **Grupo:** 2ºLCB
+- **Pareja de trabajo, si procede:** Pablo Molano Sánchez y Diana Casas Canchado
+- **Rol o tarea principal que realizaste:** 
+- **Modalidad realmente realizada:** Muestra ambiental autorizada
+- **Código o descripción de la muestra/material docente:** Muestra de agua estancada en un tubo Eppendolf
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -152,7 +152,7 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 
 Antes de observar, indica qué esperas encontrar o qué características crees que podrían ser relevantes para la muestra. Si trabajaste con material docente o un vídeo, formula la hipótesis a partir de la información disponible.
 
-[Escribe aquí tu hipótesis u observación inicial.]
+Espero encontrar múltiples microorganismos patógenos y no patógenos
 
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
