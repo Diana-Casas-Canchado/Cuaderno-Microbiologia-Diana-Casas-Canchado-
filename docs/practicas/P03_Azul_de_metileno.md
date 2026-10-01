@@ -1,3 +1,215 @@
+---
+title: "P03 — Tinción vital con azul de metileno"
+practice_id: P03
+unit: "UD2 — Bacteriología: técnicas de tinción y observación"
+learning_outcome: RA02
+assessment_criteria: CE02.a–CE02.g
+transversal_learning_outcome: RA01
+page_type: practical-notebook
+student_completion: individual
+reference_document: "práctica2_Tinciónvital.pdf"
+---
+
+# P03 — Tinción vital con azul de metileno
+
+> **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La preparación puede realizarse por parejas, pero el registro, la interpretación comparada, las imágenes seleccionadas y la reflexión deben ser personales.
+
+## 1. Identificación de la práctica
+
+| Campo | Información |
+|---|---|
+| Código y título | `P03 — Tinción vital con azul de metileno` |
+| Unidad didáctica | `UD2 — Bacteriología: técnicas de tinción y observación` |
+| Resultado de aprendizaje | `RA02` |
+| Criterios de evaluación | `CE02.a–CE02.g` |
+| Aprendizaje transversal | `RA01 — bioseguridad` |
+| Agrupamiento | Preparación y manejo del microscopio por parejas; interpretación y registro individual. |
+| Instrumentos vinculados | Prueba práctica, cuaderno o portfolio de prácticas y prueba teórica. |
+| Modalidad prevista | Muestra autorizada o material docente seguro, colorante azul de metileno vigente y documentación de seguridad disponible. |
+
+## 2. Resumen
+
+En esta práctica aplicarás o interpretarás una tinción directa con azul de metileno y la compararás con la observación en fresco de P02. La tinción vital corresponde a la muestra fresca sin centrifugar. Si se autoriza la centrifugación, prepararás una muestra concentrada y teñida después; esta variante no permite inferir movilidad ni viabilidad. Registrarás el reactivo, los aumentos, los controles, los hallazgos y las limitaciones, con imágenes autorizadas e identificaciones solo orientativas.
+
+## 3. Finalidad y resultados esperados
+
+La tinción directa con azul de metileno aumenta el contraste de una muestra fresca sin centrifugar y se compara con su preparación en fresco de P02. La modalidad centrifugada es una adaptación docente distinta: concentra la muestra antes de teñirla y no debe interpretarse como una prueba de viabilidad.
+
+Al finalizar deberás poder:
+
+- manipular un colorante de forma segura conforme a su FDS;
+- preparar o analizar una tinción vital directa válida, sin comprometer la calidad de la muestra;
+- observar y describir las estructuras visibles tras la tinción;
+- comparar el contraste, la morfología observable y las limitaciones de una preparación teñida frente a una preparación en fresco; y
+- comunicar el resultado mediante registro técnico, imágenes y una interpretación razonada.
+
+## 4. Recursos, seguridad y autorización
+
+**Recursos previstos:** microscopio óptico, portaobjetos y cubreobjetos limpios, pipeta Pasteur o gotero, papel absorbente, muestra o preparación docente autorizada y solución de azul de metileno apta para uso docente. Si el centro autoriza prepararla, se requieren azul de metileno en polvo, balanza, espátula, material de pesada, agua destilada y matraz aforado de 100 mL.
+
+**Responsabilidad del centro:** proporcionar un reactivo vigente, correctamente etiquetado y con la ficha de datos de seguridad (FDS) accesible. El centro debe autorizar la preparación de la solución al 0,5 % p/v y confirmar el método, el EPI, el almacenamiento y la gestión de residuos. La centrifugación, el posible uso de vaselina y los aumentos también requieren protocolo local validado.
+
+**Riesgos:** exposición al colorante, salpicaduras, manchas, contacto con muestra autorizada, rotura o corte con vidrio y gestión incorrecta de residuos químicos.
+
+**Medidas obligatorias:** usar el EPI indicado por la FDS y el centro; evitar salpicaduras y aerosoles; trabajar sobre una superficie protegida cuando se indique; no pipetear con la boca; gestionar el colorante y el vidrio por la ruta de residuos comunicada; limpiar el puesto e higienizar las manos al finalizar.
+
+> **Aviso de seguridad.** La práctica es `CONDITIONAL`: requiere reactivo vigente, FDS disponible, material docente autorizado, EPI y circuito de residuos químicos confirmado. Si falta alguno de estos elementos, se utilizarán preparaciones teñidas, imágenes o resultados docentes ya preparados, identificándolos como tales.
+
+## 5. Fundamento técnico
+
+La tinción vital directa con azul de metileno puede aumentar el contraste de una muestra fresca y resaltar algunas estructuras, pero el colorante también puede modificar su aspecto. La FDS del reactivo determina las medidas de manipulación; la tinción no permite por sí sola una identificación definitiva.
+
+La comparación con la preparación en fresco es esencial: la tinción puede facilitar el reconocimiento de contornos y detalles, mientras que la preparación sin teñir puede aportar otra información sobre el comportamiento de la muestra. Cualquier movimiento observado debe analizarse con cautela, diferenciándolo de corrientes, vibraciones o artefactos.
+
+La ficha contempla dos rutas: tinción vital directa de la muestra fresca sin centrifugar y preparación concentrada por centrifugación seguida, si se autoriza localmente, de una tinción. La solución propuesta es azul de metileno al 0,5 % p/v y solo se prepara con autorización docente y FDS disponible. El PNT citado orienta sobre muestras frescas, pero no establece esa concentración ni valida la centrifugación de agua estancada.
+
+## 6. Procedimiento y controles de calidad
+
+### Procedimiento base
+
+1. Revisar la autorización de la muestra o del material docente, la FDS, el EPI y el circuito de residuos.
+2. Preparar un portaobjetos y cubreobjetos limpios, y etiquetar la preparación según las indicaciones recibidas.
+3. Depositar la cantidad de muestra indicada por el centro en el portaobjetos.
+4. Añadir la cantidad indicada de solución de azul de metileno y homogeneizar con el método autorizado, evitando salpicaduras y exceso de manipulación.
+5. Deposita en el portaobjetos una gota de muestra con pipeta Pasteur limpia; no reutilices la pipeta entre muestras.
+6. Añade la cantidad de solución de azul de metileno especificada por el protocolo validado; no prepares ni diluyas reactivo sin autorización.
+7. Mezcla suavemente con material limpio, si así lo establece el método; evita extender la gota fuera del área de observación.
+8. Coloca el cubreobjetos desde un borde y bájalo lentamente para reducir burbujas; no presiones ni selles salvo autorización expresa.
+9. Observa pronto con el microscopio y la secuencia de aumentos indicada por el centro; evita que la preparación se seque.
+10. Registra aumento, contraste, morfología y artefactos; interpreta la tinción solo dentro de sus límites y compárala con P02.
+11. Retira la preparación y elimina muestra, colorante, vidrio y material usado por las rutas designadas; limpia el puesto e informa incidencias.
+
+#### B. Preparación concentrada con centrifugación y tinción posterior
+
+Esta ruta es una adaptación docente, no una tinción vital validada por el PNT. La concentración puede destruir trofozoítos; no interpretes movimiento ni viabilidad en esta preparación.
+
+1. Confirma que la muestra y la centrifugación estén autorizadas; usa solo material docente seguro y no continúes sin parámetros locales validados.
+2. Verifica FDS, EPI, tubos compatibles e íntegros, rotor aprobado y protocolo que especifique volumen, fuerza relativa, tiempo y fracción que se recuperará.
+3. Identifica el tubo y prepara la alícuota con el volumen establecido en el protocolo docente validado; registra ese volumen antes de centrifugar.
+4. Equilibra los tubos con la misma carga y disposición indicada por el fabricante; cierra tapas y comprueba el rotor antes de iniciar.
+5. Centrifuga con la fuerza relativa y el tiempo aprobados para ese rotor; no conviertas ni extrapoles rpm entre equipos.
+6. Espera la detención completa del rotor antes de abrir; ante rotura, fuga o vibración anómala, no manipules el contenido y avisa al docente.
+7. Retira el tubo verticalmente y recupera solo la fracción —sedimento o sobrenadante— indicada por el protocolo validado.
+8. Deposita una gota de esa fracción en un portaobjetos limpio e identificado; usa pipeta limpia y evita resuspender material no indicado.
+9. Añade azul de metileno solo si el protocolo docente autoriza esta adaptación y especifica reactivo y cantidad; no la presentes como método validado por SEIMC.
+10. Mezcla suavemente si está indicado y coloca el cubreobjetos desde un borde; evita burbujas, presión y sellado no autorizado.
+11. Observa con el microscopio y los aumentos indicados; registra que hubo centrifugación y la fracción examinada.
+12. No infieras movilidad ni viabilidad a partir de esta preparación: la concentración puede destruir trofozoítos y alterar la muestra.
+13. Gestiona tubo, preparación, colorante y material usado según las rutas del centro; limpia el equipo según instrucciones e informa incidencias.
+
+### Controles de calidad
+
+- Reactivo identificado, vigente y utilizado conforme a la FDS.
+- Preparación limpia, correctamente rotulada y sin burbujas que impidan la lectura.
+- Cantidad de colorante y homogeneización adecuadas: sin precipitados o sobreteñido que impidan interpretar el campo.
+- Enfoque, iluminación y aumento adecuados para la observación.
+- Comparación explícita y razonada con la preparación en fresco.
+- Imagen o esquema suficiente para apoyar el resultado, con pie de foto técnico y origen declarado.
+
+---
+
+# Tu cuaderno de prácticas
+
+## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
+
+- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
+- **Fecha real de realización:** [dd/mm/aaaa]
+- **Grupo:** [Indica tu grupo]
+- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
+- **Rol o tarea principal que realizaste:** [Describe tu participación]
+- **Modalidad realmente realizada:** [Muestra autorizada / preparación docente teñida / imagen o vídeo / otra; descríbela]
+- **Código o descripción de la muestra/material docente:** [Completa sin incluir datos personales o clínicos]
+- **Reactivo utilizado:** [Nombre, concentración indicada por el centro, lote o referencia si procede]
+
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
+
+### 8.1 Verificación previa
+
+| Comprobación | Registro |
+|---|---|
+| Autorización o modalidad segura de la muestra | [Completa] |
+| FDS y estado del reactivo | [Completa] |
+| EPI y medidas de seguridad aplicadas | [Completa] |
+| Estado del portaobjetos y cubreobjetos | [Completa] |
+| Aumento(s) utilizado(s) | [Completa] |
+
+### 8.2 Hipótesis de comparación
+
+Antes de observar, indica qué diferencia esperas encontrar entre la preparación en fresco de P02 y la preparación teñida con azul de metileno. Si trabajaste con una imagen o preparación docente, formula la hipótesis a partir de la información disponible.
+
+[Escribe aquí tu hipótesis.]
+
+## 9. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
+
+### 9.1 Comprobación de calidad
+
+| Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
+|---|---|---|---|
+| Reactivo correctamente identificado y apto para uso | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Preparación sin burbujas o artefactos limitantes | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Contraste suficiente para la observación | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Enfoque e iluminación adecuados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Gestión correcta de residuos y limpieza | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+
+### 9.2 Registro de hallazgos
+
+| Campo o elemento observado | Aspecto tras la tinción | ¿Qué detalle permite apreciar? | Limitación o duda |
+|---|---|---|---|
+| [Observación 1] | [Completa] | [Completa] | [Completa] |
+| [Observación 2] | [Completa] | [Completa] | [Completa] |
+| [Observación 3] | [Completa] | [Completa] | [Completa] |
+
+## 10. Comparación con la observación en fresco [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+
+| Aspecto comparado | P02 — Observación de agua estancada mediante preparación en fresco | P03 — Tinción vital directa / preparación concentrada teñida | Interpretación de la diferencia |
+|---|---|---|---|
+| Contraste | [Completa] | [Completa] | [Completa] |
+| Morfología o detalles visibles | [Completa] | [Completa] | [Completa] |
+| Movimiento observado (solo modalidad sin centrifugación) | [Completa] | [Completa] | [Completa] |
+| Facilidad de observación | [Completa] | [Completa] | [Completa] |
+| Limitaciones | [Completa] | [Completa] | [Completa] |
+
+### Resultado principal
+
+Resume qué aportó la tinción a la observación y qué información debe interpretarse con cautela. Indica expresamente si el resultado procede de una ejecución propia, una preparación docente o material audiovisual.
+
+[Escribe aquí el resultado principal.]
+
+## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+
+> Aporta fotografías propias de las tareas que realizaste y que el centro autorizó fotografiar. No incluyas rostros, datos personales ni etiquetas con información sensible. No uses material docente, imágenes de referencia ni vídeos como evidencia propia. Si no realizaste la tarea o no está autorizada su fotografía, escribe «No aplica» y explica el motivo; no inventes ni sustituyas evidencias.
+>
+> Guarda las fotografías del alumnado en `docs/modulos/microbiologia-clinica/assets/P03/`, con los nombres previstos. Añádelas después de realizar la práctica; las rutas siguientes indican dónde se guardará cada archivo.
+
+### Imagen 1 — Preparación del colorante
+
+- **Archivo previsto:** `../assets/P03/01_preparacion_colorante.jpg`
+- **Texto alternativo:** Preparación autorizada de la solución de azul de metileno.
+- **Pie de foto:** [Describe la pesada y preparación de la solución; registra la concentración final indicada en la etiqueta.]
+- **Control de seguridad o calidad visible:** [Completa]
+- **Autoría:** [Propia / compartida con tu pareja]
+- **Imagen del alumnado:** [Añadir aquí después de la práctica o escribe «No aplica» si no preparaste la solución.]
+
+### Imagen 2 — Proceso de tinción
+
+- **Archivo previsto:** `../assets/P03/02_proceso_tincion.jpg`
+- **Texto alternativo:** Aplicación del azul de metileno a la muestra en el portaobjetos.
+- **Pie de foto:** [Describe la aplicación del colorante y la preparación del portaobjetos.]
+- **Medida de seguridad o calidad que demuestra:** [Completa]
+- **Autoría:** [Propia / compartida con tu pareja]
+- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+
+### Imagen 3 — Campo microscópico teñido sin centrifugación
+
+- **Archivo previsto:** `../assets/P03/03_campo_tenido_sin_centrifugacion.jpg`
+- **Texto alternativo:** Campo microscópico de la preparación teñida sin centrifugación.
+- **Pie de foto:** [Describe el campo y registra el aumento utilizado.]
+- **Rasgo observado y limitación:** [Completa; evita identificar organismos sin evidencia suficiente]
+- **Autoría:** [Propia / compartida con tu pareja]
+- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+
+### Imagen 4 — Proceso de centrifugación
+
 - **Archivo previsto:** `../assets/P03/04_proceso_centrifugacion.jpg`
 - **Texto alternativo:** Tubo y centrífuga durante la preparación concentrada.
 - **Pie de foto:** [Indica el equipo y los parámetros validados por el centro; fotografía solo si está permitido y sin datos identificativos.]
