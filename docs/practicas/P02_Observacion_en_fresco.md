@@ -167,14 +167,7 @@ Espero encontrar múltiples microorganismos patógenos y no patógenos
 
 ### 9.2 Registro de hallazgos
 
-| Hallazgo | Preparación utilizada | Morfología, tamaño relativo y disposición | ¿Se observó movimiento? | Interpretación inicial |
-|---|---|---|---|---|
-| [Hallazgo 1] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 2] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 3] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 4] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 5] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 6] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
+Ningún hallazgo encontrado
 
 ### 9.3 Resultado principal
 
@@ -224,19 +217,19 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias |  |  | No |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta los hallazgos usando las características observadas, los controles de calidad y las evidencias visuales. Distingue con claridad entre una identificación orientativa, una hipótesis y una conclusión que no puede sostenerse con la información disponible. Explica también si el movimiento observado podría deberse a corrientes, vibración o movimiento browniano.
 
-[Escribe aquí tu interpretación técnica.]
+No se encontraron microorganismos
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de preparar, observar y registrar una muestra en fresco. Explica qué evidencias sostienen tu conclusión y qué limitaciones tuvo la práctica o el material utilizado.
 
-[Escribe aquí tu conclusión.]
+Alcanzamos el objetivo de preparar las muestras en fresco y de observarlas, pero no se encontraron microorganismos.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -244,19 +237,19 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué decisión durante la preparación influyó más en la calidad de la observación microscópica y cómo comprobaste su efecto?
 
-   [Respuesta del alumnado]
+   Poner poco colorante y muestra para que cuando se pusiera el cobreobjetos no se saliera del portaobjetos y poder hacer más cómoda la observación.
 
 2. **Interpretación:** ¿Qué indicios utilizaste para decidir si el desplazamiento observado era movilidad propia, una corriente o un artefacto? ¿Qué información adicional necesitarías para afirmarlo con mayor seguridad?
 
-   [Respuesta del alumnado]
+   No se han detectado microorganismo
 
 3. **Conclusiones:** ¿Cuál de tus evidencias —registro, fotografía o esquema— respalda mejor la conclusión principal? Explica también una limitación de esa evidencia.
 
-   [Respuesta del alumnado]
+ No se han detectado microorganismo
 
 4. **Aprendizaje y transferencia:** ¿Qué mejorarías en una próxima observación en fresco y cómo aplicarías ese aprendizaje a una tinción o a otra técnica microscópica?
 
-   [Respuesta del alumnado]
+   Lo haría como esta vez
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -265,15 +258,15 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Identificador de práctica | `P02` |
 | Fecha | [dd/mm/aaaa] |
 | UD / RA / CE | `UD2 / RA02 / CE02.a, CE02.c, CE02.f, CE02.g` |
-| Agrupamiento | [Individual / pareja; especifica] |
-| Modalidad y origen de la muestra o evidencia | [Completa] |
-| Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.3] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
-| Ruta de residuos aplicada | [Completa] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Agrupamiento | Pareja |
+| Modalidad y origen de la muestra o evidencia | Real |
+| Materiales o lotes relevantes | No aplicaba |
+| Controles | ### 9.1 |
+| Resultado | ### 9.3 |
+| Interpretación | ## 12 |
+| Incidencias y acciones correctoras | ## 11 |
+| Ruta de residuos aplicada | La adjunta en este documento |
+| Estado de entrega | Entregado |
 
 ---
 
