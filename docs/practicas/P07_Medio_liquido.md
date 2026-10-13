@@ -119,9 +119,9 @@ Etiqueta/ficha del BHI → cálculo para 50 mL → pesada y reconstitución con 
 - **Fecha real de realización:** 07/10/2026
 - **Grupo:** 2º LCB
 - **Equipo de trabajo, si procede:** Grupo 2
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Preparación completa supervisada / preparación sin autoclave / demostración de esterilización / análisis documental / otra; descríbela]
-- **Medio preparado:** Caldo BHI; [indica fabricante, referencia y lote]
+- **Rol o tarea principal que realizaste:** Realicé los cálculos y pipeté algunos tubos
+- **Modalidad realmente realizada:** Preparación completa supervisada
+- **Medio preparado:** Caldo BHI; Laboratorio Conda S.A; 680301; 07/2020; 1'85 g/L
 - **Preparación prevista por grupo:** 50 mL según la etiqueta/ficha; seis tubos de 8 mL antes de esterilizar.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -132,13 +132,13 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Instrumental | Gradilla, 6 tubos, tapones, balanza portatil, cucharilla, matraz Erlenmeyer, papel de aluminio |
+| Equipos | Autocalve |
+| Reactivos/materiales | BHI en polvo |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| No aplica | |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -148,9 +148,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Copia la dosis del BHI y su fuente; calcula la masa para 50 mL, registra la masa pesada y comprueba 6 × 8 = 48 mL y el margen de 2 mL] |
-| Configuración de equipos (si procede) | [Identifica balanza y material de dispensación; registra autoclave, ciclo, temperatura, tiempo y controles reales, o indica qué procede de demostración/documentación] |
-| Características del producto o resultado final | [Indica número de tubos, volumen dispensado por tubo, aspecto del BHI, integridad y etiquetas; sobrante/pérdidas observados, origen de la evidencia y estado de los controles] |
+| Cálculos (si procede) | 37 x 0,050 = 1,85 g/L |
+| Configuración de equipos (si procede) | 121 ºC - 15 minutos |
+| Características del producto o resultado final | 6 tubos, 1'85 g/L, polvo, correcta y legibles; ningún sobrante/pérdidas observados, laboratorio Conda S.A y  correcto estado de los controles] |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -165,7 +165,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 *Figura 1. Masa pesada y envase del BHI; documenta la dosis y el lote sin mostrar datos personales.*
 
 - **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
-- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+- **Autoría y modalidad:** Compartida con el grupo
 
 ### Imagen 2 — Disolución del lote de 50 mL
 
@@ -176,7 +176,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 *Figura 2. Preparación del BHI con agua destilada; indica cómo se midió el volumen y el aspecto de la disolución.*
 
 - **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
-- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+- **Autoría y modalidad:** Compartida con el grupo
 
 ### Imagen 3 — Dispensación de 8 mL y seis tubos identificados
 
@@ -187,7 +187,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 *Figura 3. Medida de una alícuota y conjunto de seis tubos antes del autoclave; indica el volumen dispensado.*
 
 - **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
-- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+- **Autoría y modalidad:** Compartida con el grupo 
 
 ### Imagen 4 — Acondicionamiento y registro del ciclo
 
@@ -198,7 +198,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 *Figura 4. Soporte, cierres o registro del ciclo autorizado; identifica si realizaste u observaste esta fase.*
 
 - **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
-- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+- **Autoría y modalidad:** Compartida con el grupo 
 
 ### Imagen 5 — Caldo BHI final y estado de control
 
@@ -217,19 +217,19 @@ Puedes añadir hasta tres evidencias más si son pertinentes; no fabriques imág
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias | | | |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta si el lote de BHI cumple la dosis de su ficha, la preparación de 50 mL, la dispensación de seis tubos de 8 mL y los criterios de homogeneidad, acondicionamiento, identificación y esterilización previstos. Explica qué evidencia sostiene esa valoración, qué resultado dejarías como pendiente hasta completar el control de esterilidad y por qué un medio aparentemente correcto no garantiza por sí solo su aptitud para uso posterior.
 
-[Escribe aquí tu interpretación técnica.]
+Creo que el lote cumple la dosis de su ficha, ya que se han hecho los cálculos correctamente para hacer la preparación de 50 mL, y la dispensación en los 6 tubos han sido homogéneos, se han acondicionado correctamente, al igual que se han identificado y esterilizado siguiendo las instrucciones proporcionadas por el docente, ya que se han seguido paso a paso todas las instrucciones del protocolo añadido en la práctica, diría que falta comprobar si la esterilización ha funcionado correctamente, igual si es efectivo, ya que el lote estaba caducado, por lo que no sabemos si el caldo será apto para cultivar.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 ¿El resultado obtenido y el procedimiento realizado cumplen el objetivo de obtener un medio de cultivo listo para la inoculación y el cultivo de bacterias? Justifica brevemente tu conclusión.
 
-[Escribe aquí tu conclusión.]
+Si, ya que se ha realizado de forma correcta y segura el caldo de cultivo BHI.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -237,19 +237,19 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 **1. Procedimiento:** ¿Qué precaución específica tomaste al elegir los tapones o cierres de los tubos antes de introducirlos en el autoclave y qué consecuencias de seguridad habría tenido cerrarlos herméticamente?
 
-   [Respuesta del alumnado]
+   Que no quedara sellado por completo para poder ser esterilizado con precisión, ya que si lo cerramos herméticamente no podrá entrar el vapor de la autoclave.
 
 **2. Interpretación:** El procedimiento indica que no se debe añadir corrector de pH, pero que podría exigirse su comprobación. Si tuvieras que medir el pH del BHI reconstituido, ¿en qué momento exacto del procedimiento descrito lo harías y por qué sería un error medirlo *después* de que los tubos salgan del autoclave?
 
-   [Respuesta del alumnado]
+   Lo haría en el momento de la pesada, ya que previamente se deben echar los cálculos y examinar el envase, en cuanto a la segunda parte de la pregunta, creo que sería un error hacerlo después de la esterilización, ya que este es un proceso irreversible y provocaría errores en la medición.
 
 **3. Conclusiones:** Si dentro de unos días observaras que uno de los tubos almacenados presenta turbidez sin haber sido inoculado por nadie, ¿qué fallo en el procedimiento, material o equipo deducirías que ha ocurrido?
 
-   [Respuesta del alumnado]
+   Fallo en la esterilización
 
 **4. Aprendizaje y transferencia:** Imagina que en un laboratorio real te piden escalar esta preparación para hacer 150 tubos de 8 mL de BHI. ¿Cómo modificarías tus cálculos iniciales de masa y volumen total (incluyendo un margen de seguridad proporcional)?
 
-   [Respuesta del alumnado]
+   37 x 0,08 = 2,96 g/L
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
