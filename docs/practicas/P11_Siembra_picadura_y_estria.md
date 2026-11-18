@@ -111,7 +111,7 @@ Antes de realizar o revisar la actividad, responde:
 
 > ¿Qué diferencias esperas entre los tres patrones de siembra y qué información adicional necesitarías para interpretar los crecimientos con seguridad?
 
-[Escribe aquí. Relaciona la predicción con las tres trayectorias de siembra.]
+Los tres patrones de siembra en tubo permiten evaluar distintas propiedades fisiológicas según la distribución del inóculo (PNT-010): la estría superficial en agar inclinado (A) maximiza el contacto con el oxígeno para observar la morfología colonial y el metabolismo aeróbico; la picadura central en medio recto (B) evalúa la motilidad bacteriana —diferenciando la difusión en el gel frente al crecimiento confinado a la línea de punción— y el crecimiento a lo largo de un gradiente de oxígeno; mientras que la combinación de ambas técnicas (C) permite estudiar simultáneamente en medios diferenciales tanto procesos de fermentación profunda en anaerobiosis como la oxidación superficial. Para realizar una interpretación objetiva y segura a partir de la observación morfológica (ubicación, extensión, continuidad y aspecto), resulta imprescindible conocer la composición exacta y los indicadores del medio de cultivo, registrar los parámetros de tiempo, temperatura y atmósfera de incubación, verificar la pureza del inóculo de partida y validar la prueba mediante cepas control positivas y negativas definidas.
 
 ---
 
@@ -186,16 +186,16 @@ En los tres procedimientos, mantén la manipulación aséptica y la apertura/cie
 | Técnica asignada al tubo A | Estría en superficie inclinada |
 | Técnica asignada al tubo B | Picadura en tubo recto |
 | Técnica asignada al tubo C | Picadura seguida de estría |
-| Cultivo previo y colonia asignada | [Código autorizado comunicado por el docente] |
+| Cultivo previo y colonia asignada | Bacillus |
 | Medio y disposición de cada tubo | A: medio sólido inclinado; B: medio sólido recto; C: medio sólido inclinado |
-| Controles o comparación docente | [Indica control previsto o «No aplica»] |
+| Controles o comparación docente | No aplica |
 | Límite de lectura indicado para la sesión | [Escribe aquí] |
 
 ### [ALUMNADO · RELLENABLE] Decisión de seguridad
 
 > Indica la medida de seguridad que consideras más importante para esta actividad y explica brevemente por qué.
 
-[Escribe aquí]
+Considero que la medida de seguridad más importante para esta actividad es la asepsia, ya que si se rompiera la esterilidad o no se tuviera cuidado a la hora de cultivar, podría haber errores en el resultado.
 
 ---
 
@@ -207,13 +207,13 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Incluye la colonia asignada y tres tubos con medio sólido: A y C inclinados; B recto.] |
+| Instrumental | Asa de siembra, hilo de siembra |
+| Equipos | Mechero bunsen, incubadora, autoclave |
+| Reactivos/materiales | Incluye la colonia asignada en placa y tres tubos con medio sólido: A y C inclinados; B recto. |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Placas de Petri con cultivos bacterianos | Biológicos infecciosos |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -223,8 +223,8 @@ Registra los datos observados en la ejecución real de los tubos A, B y C. Escri
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Cálculos (si procede) | No aplica |
+| Configuración de equipos (si procede) | No aplica |
 | Características del producto o resultado final | [Describe A: estría superficial; B: crecimiento en la trayectoria recta; C: picadura y superficie estriada por separado. Indica controles y limitaciones.] |
 
 ## 10. Evidencias visuales
@@ -235,27 +235,31 @@ Incluye fotografías propias de la práctica real solo si su captura está autor
 
 ### Imagen 1 — Cultivo o colonias que se van a sembrar
 
-**Evidencia:** [Inserta aquí la fotografía autorizada de la colonia asignada, sin datos sensibles.]<br>
-**Pie de foto técnico:** [Describe el cultivo y señala la colonia seleccionada.]<br>
-**Autoría y procedencia:** [Propia / fotografía docente autorizada / material de referencia]
+**Evidencia:** <img width="918" height="2040" alt="image" src="https://github.com/user-attachments/assets/1f51dfe1-4d22-4af9-a445-c63457a32b83" />
+
+**Pie de foto técnico:** Cultivo apenas visible de un bacillus
+**Autoría y procedencia:** Propia
 
 ### Imagen 2 — Siembra en estría en superficie inclinada (tubo A)
 
-**Evidencia:** [Inserta aquí la fotografía autorizada de la realización de la estría en el agar inclinado.]<br>
-**Pie de foto técnico:** [Describe la trayectoria realizada sobre la superficie.]<br>
-**Autoría y procedencia:** [Propia / fotografía docente autorizada / material de referencia]
+**Evidencia:** <img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/b64333b7-dcad-4330-8e3f-6a0b53cdd059" />
+
+**Pie de foto técnico:** se desplaza el hilo de siembra en zig zag por la parte inclinada del medio
+**Autoría y procedencia:** Propia
 
 ### Imagen 3 — Siembra en picadura en tubo recto (tubo B)
 
-**Evidencia:** [Inserta aquí la fotografía autorizada de la realización de la picadura en el medio sólido recto.]<br>
-**Pie de foto técnico:** [Describe la trayectoria de entrada y retirada del hilo.]<br>
-**Autoría y procedencia:** [Propia / fotografía docente autorizada / material de referencia]
+**Evidencia:** <img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/00ef377f-cd02-4730-a869-b38c50d3e591" />
+
+**Pie de foto técnico:** se penetra el medio de forma vertical y se saca el hilo siguiendo la misma trayectoria
+**Autoría y procedencia:** Propia
 
 ### Imagen 4 — Siembra en picadura y estría (tubo C)
 
-**Evidencia:** [Inserta aquí la fotografía autorizada de la técnica combinada en el agar inclinado.]<br>
-**Pie de foto técnico:** [Describe por separado la picadura y la estría superficial.]<br>
-**Autoría y procedencia:** [Propia / fotografía docente autorizada / material de referencia]
+**Evidencia:** <img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/90dd7f99-383d-438f-a37a-3ae6989dc3c7" />
+
+**Pie de foto técnico:**  picadura: se penetra el medio de forma vertical y se saca el hilo siguiendo la misma trayectoria; estría: sin sacar el asa e hilo del tubo, se realiza la estría por la parte inclinada del medio
+**Autoría y procedencia:** Propia
 
 ### Imagen 5 — Resultado tras incubación de la siembra en estría (tubo A)
 
@@ -283,7 +287,7 @@ Incluye fotografías propias de la práctica real solo si su captura está autor
 
 | Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en el resultado |
 | --- | --- | --- | --- | --- |
-| [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
+| No se registraron incidencias |  | ||  |
 
 ---
 
@@ -319,7 +323,7 @@ Redacta una interpretación breve y fundamentada:
 
 **1. Procedimiento — Integridad de la trayectoria.** Durante la picadura en el tubo B y la zona profunda del tubo C, ¿por qué se debe retirar el hilo exactamente por el mismo canal de entrada, sin perforar el vidrio del fondo ni realizar movimientos laterales?
 
-   [Respuesta]
+ Para que haya un crecimiento uniforme
 
 **2. Interpretación.** Dado que los tubos A, B y C proceden de una misma colonia asignada, ¿cómo deberías interpretar una discrepancia evidente entre ellos (por ejemplo, ausencia total de crecimiento en la estría del tubo A frente a crecimiento abundante en la superficie inclinada del tubo C)?
 
@@ -343,7 +347,7 @@ Redacta una interpretación breve y fundamentada:
 | --- | --- |
 | Código de práctica | P11 |
 | Fecha de entrega | [dd/mm/aaaa] |
-| Enlace o ubicación de las evidencias | [Escribe aquí] |
+| Enlace o ubicación de las evidencias |  |
 | Modalidad declarada | Ejecución real supervisada |
 | Procedimiento técnico consultado | [PNT-010. Manipulación aséptica en bacteriología, v1.2](#pnt-010) |
 | Control o referencia utilizada | [Escribe aquí] |
