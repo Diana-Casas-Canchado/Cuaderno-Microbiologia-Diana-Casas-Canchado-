@@ -90,11 +90,11 @@ Completa antes de empezar:
 
 | Verificación | Sí / No / No aplica | Observación o referencia |
 | --- | --- | --- |
-| La sesión se realiza de forma real y supervisada | [ ] | [Escribe aquí] |
-| Dispongo de los EPI requeridos y del puesto preparado | [ ] | [Escribe aquí] |
-| He identificado los tres tubos, sus medios y códigos de trazabilidad | [ ] | [Escribe aquí] |
-| He comprobado el cultivo previo, la colonia asignada y las etiquetas de los tres tubos | [ ] | [Escribe aquí] |
-| Conozco las indicaciones del [PNT-010](#pnt-010) y los contenedores de residuos | [ ] | [Escribe aquí] |
+| La sesión se realiza de forma real y supervisada | Si |  |
+| Dispongo de los EPI requeridos y del puesto preparado | Si | |
+| He identificado los tres tubos, sus medios y códigos de trazabilidad | Si | |
+| He comprobado el cultivo previo, la colonia asignada y las etiquetas de los tres tubos | Si | |
+| Conozco las indicaciones del [PNT-010](#pnt-010) y los contenedores de residuos | Si | |
 
 ---
 
