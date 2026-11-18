@@ -28,14 +28,14 @@ student_completion: "Individual o por pareja, según la organización del grupo"
 
 | Campo | Registro del alumnado |
 | --- | --- |
-| Nombre y apellidos | [Escribe aquí] |
-| Grupo / pareja de trabajo | [Escribe aquí] |
-| Fecha de realización | [dd/mm/aaaa] |
+| Nombre y apellidos | Diana Casas Canchado |
+| Grupo / pareja de trabajo | Pablo Molano Sánchez |
+| Fecha de realización | 18/11/2026 |
 | Fecha de lectura o revisión | [dd/mm/aaaa] |
-| Rol desempeñado | [Operador/a, observador/a, registrador/a u otro] |
+| Rol desempeñado | Operadora, observadora |
 | Modalidad de trabajo | Ejecución real supervisada en el laboratorio docente |
-| Cultivo previo y colonia asignada | [Código trazable autorizado; no añadas datos sensibles] |
-| Códigos de los tubos A, B y C | [Escribe aquí, sin datos sensibles] |
+| Cultivo previo y colonia asignada | Bacillus |
+| Códigos de los tubos A, B y C | fecha, cultivo y nombre de quien realiza el cultivo |
 
 ---
 
