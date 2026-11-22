@@ -181,35 +181,39 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 ### Imagen 1 — Preparación húmeda sin concentración
 
-- **Archivo previsto:** `../assets/P02/01_preparacion_sin_concentracion.jpg`
-- **Texto alternativo:** Preparación húmeda directa de la muestra de agua estancada sobre el portaobjetos.
+No realizada
 - **Pie de foto:** [Describe el depósito de la gota y la colocación del cubreobjetos; indica el origen autorizado de la muestra.]
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 2 — Campo microscópico de la preparación sin concentración
 
-- **Archivo previsto:** `../assets/P02/02_campo_sin_concentracion.jpg`
+- **Archivo previsto:**<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/1ac9e5d2-e03c-46a7-8cb8-f26660f3cd5d" />
+
 - **Texto alternativo:** Campo microscópico de la preparación directa con un hallazgo señalado.
 - **Pie de foto:** [Describe el hallazgo y registra el aumento utilizado; evita una identificación no confirmada.]
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 3 — Centrifugación de la muestra
 
-- **Archivo previsto:** `../assets/P02/03_centrifugacion.jpg`
+- **Archivo previsto:** <img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/797b097c-13b3-4ca9-9908-4a453a4bc5ad" />
+
 - **Texto alternativo:** Tubos cerrados y equilibrados en la centrífuga durante la preparación concentrada autorizada.
 - **Pie de foto:** [Indica el equipo y los parámetros validados por el centro; fotografía solo si está permitido y sin datos identificativos.]
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 4 — Campo microscópico de la preparación concentrada
 
-- **Archivo previsto:** `../assets/P02/04_campo_concentrado.jpg`
+- **Archivo previsto:** <img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/7d0c332e-ce3d-4d9a-a1ad-cf5d1b9d1754" />
+
 - **Texto alternativo:** Campo microscópico de la preparación obtenida tras centrifugación con un hallazgo señalado.
 - **Pie de foto:** [Describe el hallazgo y registra el aumento; indica que procede de la preparación concentrada.]
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 5 — Limpieza del puesto y eliminación de residuos
 
-- **Archivo previsto:** `../assets/P02/05_limpieza_y_residuos.jpg`
+- **Archivo previsto:** <img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/d8991600-6f7b-4282-a103-d0fc899049ba" />
+<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/e3dce45e-1028-4fe7-b2ec-12de37643888" />
+
 - **Texto alternativo:** Puesto de trabajo limpio y residuos de la práctica separados según la ruta del centro.
 - **Pie de foto:** [Describe la limpieza realizada y la ruta de eliminación aplicada; no fotografíes datos personales.]
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
