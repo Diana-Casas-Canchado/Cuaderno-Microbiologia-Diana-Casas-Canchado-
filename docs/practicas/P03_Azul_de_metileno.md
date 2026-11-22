@@ -112,14 +112,14 @@ Esta ruta es una adaptación docente, no una tinción vital validada por el PNT.
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Muestra autorizada / preparación docente teñida / imagen o vídeo / otra; descríbela]
-- **Código o descripción de la muestra/material docente:** [Completa sin incluir datos personales o clínicos]
-- **Reactivo utilizado:** [Nombre, concentración indicada por el centro, lote o referencia si procede]
+- **Nombre y apellidos:** Diana Casas Canchado
+- **Fecha real de realización:** 01/10/2026
+- **Grupo:** 2º LCB
+- **Pareja de trabajo, si procede:** Pablo Molano Sánchez y Diana Casas Canchado
+- **Rol o tarea principal que realizaste:** 
+- **Modalidad realmente realizada:** Muestra autorizada 
+- **Código o descripción de la muestra/material docente:** Sin código
+- **Reactivo utilizado:** Azul de metileno
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -127,17 +127,17 @@ Esta ruta es una adaptación docente, no una tinción vital validada por el PNT.
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad segura de la muestra | [Completa] |
-| FDS y estado del reactivo | [Completa] |
-| EPI y medidas de seguridad aplicadas | [Completa] |
-| Estado del portaobjetos y cubreobjetos | [Completa] |
-| Aumento(s) utilizado(s) | [Completa] |
+| Autorización o modalidad segura de la muestra | Muestra biológica/citológica debidamente identificada y autorizada para uso docente/diagnóstico; manipulada siguiendo las precauciones universales de bioseguridad en área limpia. |
+| FDS y estado del reactivo | Fichas de Datos de Seguridad (FDS) revisadas previamente. Reactivos y colorantes (azul de metileno) en óptimas condiciones, limpios, sin precipitados ni turbidez y dentro de su fecha de caducidad. |
+| EPI y medidas de seguridad aplicadas | Uso obligatorio de bata de laboratorio abrochada, guantes de nitrilo y gafas de protección durante la manipulación y tinción. Trabajo en zona ventilada, desinfección de la superficie de trabajo antes y después, y gestión de residuos en contenedores homologados. |
+| Estado del portaobjetos y cubreobjetos | Vidrio limpio, desengrasado y seco; sin grietas, roturas ni bordes astillados. Preparación correctamente fijada, montada y sellada sin burbujas de aire ni exceso de medio de montaje. |
+| Aumento(s) utilizado(s) | Observación secuencial con objetivos de 10x (enfoque y visión panorámica), 40x (identificación y detalle celular/tisular) y 100x |
 
 ### 8.2 Hipótesis de comparación
 
 Antes de observar, indica qué diferencia esperas encontrar entre la preparación en fresco de P02 y la preparación teñida con azul de metileno. Si trabajaste con una imagen o preparación docente, formula la hipótesis a partir de la información disponible.
 
-[Escribe aquí tu hipótesis.]
+Espero ver las pocas estructuras presentes en la muestra con mejor definición
 
 ## 9. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -145,29 +145,25 @@ Antes de observar, indica qué diferencia esperas encontrar entre la preparació
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Reactivo correctamente identificado y apto para uso | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Preparación sin burbujas o artefactos limitantes | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Contraste suficiente para la observación | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Enfoque e iluminación adecuados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Gestión correcta de residuos y limpieza | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Reactivo correctamente identificado y apto para uso | Colorante etiquetado, en buen estado y dentro de vigencia.| Sí | El etiquetado es legible, no hay turbidez ni precipitados anómalos y su manipulación se ajusta a las indicaciones de seguridad. |
+| Preparación sin burbujas o artefactos limitantes | Montaje realizado con cubreobjetos de forma progresiva, sin grandes burbujas de aire ni exceso de líquido desbordante. | Sí | Las burbujas de aire o fibras/partículas gruesas pueden confundirse con estructuras biológicas o distorsionar el enfoque y el campo visual. |
+| Contraste suficiente para la observación | En fresco (P02) se ajusta diafragma/condensador para distinguir refringencia; en P03 el colorante resalta estructuras frente al fondo. | Sí | Permite diferenciar organismos y partículas en suspensión sin saturar el campo con exceso de luz o exceso de colorante. |
+| Enfoque e iluminación adecuados | Enfoque nítido desde aumentos bajos (10x/40x) con iluminación uniforme y centrada. | Sí | Garantiza una correcta resolución de bordes, cilios, flagelos o contornos celulares sin aberraciones por desajuste óptico. |
+| Gestión correcta de residuos y limpieza | Material biológico y colorantes desechados en contenedores adecuados; microscopio limpio y pletina/lentes secos.| Sí | Previene riesgos biológicos o químicos y conserva la óptica y la mecánica del microscopio en buen estado para siguientes usos. |
 
 ### 9.2 Registro de hallazgos
 
-| Campo o elemento observado | Aspecto tras la tinción | ¿Qué detalle permite apreciar? | Limitación o duda |
-|---|---|---|---|
-| [Observación 1] | [Completa] | [Completa] | [Completa] |
-| [Observación 2] | [Completa] | [Completa] | [Completa] |
-| [Observación 3] | [Completa] | [Completa] | [Completa] |
+Sin hallazgos
 
 ## 10. Comparación con la observación en fresco [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 | Aspecto comparado | P02 — Observación de agua estancada mediante preparación en fresco | P03 — Tinción vital directa / preparación concentrada teñida | Interpretación de la diferencia |
 |---|---|---|---|
-| Contraste | [Completa] | [Completa] | [Completa] |
-| Morfología o detalles visibles | [Completa] | [Completa] | [Completa] |
-| Movimiento observado (solo modalidad sin centrifugación) | [Completa] | [Completa] | [Completa] |
-| Facilidad de observación | [Completa] | [Completa] | [Completa] |
-| Limitaciones | [Completa] | [Completa] | [Completa] |
+| Contraste | Bajo-moderado; basado en refringencia natural y regulación de luz/diafragma. | Mayor contraste cromático gracias a la captación diferencial del colorante. | La tinción facilita localizar estructuras transparentes o de baja refringencia, aunque un exceso de colorante puede oscurecer detalles finos. |
+| Morfología o detalles visibles |Contorno general, tamaño relativo y estructuras externas o refringentes básicas.| Mayor nitidez de ciertos contornos, vacuolas, núcleos o estructuras internas/superficiales según el colorante. |El contraste coloreado ayuda a distinguir mejor la forma y compartimentos, mientras que en fresco se conserva el aspecto nativo sin alteración tintorial. |
+| Movimiento observado (solo modalidad sin centrifugación) |Desplazamiento activo, natación, giros o movimiento ciliar/flagelar propio, junto a movimiento browniano. | Si se aplica sin centrifugar y con tinción vital suave, puede observarse movimiento residual o reducido según el efecto del colorante/medio. | Observar movimiento real exige preparación no centrifugada y condiciones no tóxicas; la pérdida de movimiento puede deberse al colorante o al estrés del montaje, no necesariamente a muerte celular. |
+| Facilidad de observación | Rápida de preparar, pero los organismos en movimiento salen con facilidad del campo o plano focal. | Más fácil de detectar y seguir visualmente por el contraste, aunque el colorante o la concentración pueden requerir ajuste fino. | P03 mejora la detectabilidad visual, mientras que P02 es más inmediata pero exige mayor destreza con el micrométrico y el seguimiento del campo. |
+| Limitaciones | Escaso contraste en estructuras hialinas, dispersión baja si la muestra es diluida y rapidez de secado/desplazamiento. | Posible toxicidad o alteración del comportamiento/morfología por el colorante, precipitados o tinción desigual. | Cada técnica tiene sesgos propios: en fresco cuesta ver sin teñir y en teñida el colorante puede modificar la fisiología o generar artefactos. |
 
 ### Resultado principal
 
@@ -183,9 +179,10 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 ### Imagen 1 — Preparación del colorante
 
-- **Archivo previsto:** `../assets/P03/01_preparacion_colorante.jpg`
+- **Archivo previsto:** <img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/b4c8e857-89be-47aa-a845-aac0ccd080e9" />
+
 - **Texto alternativo:** Preparación autorizada de la solución de azul de metileno.
-- **Pie de foto:** [Describe la pesada y preparación de la solución; registra la concentración final indicada en la etiqueta.]
+- **Pie de foto:** 
 - **Control de seguridad o calidad visible:** [Completa]
 - **Autoría:** [Propia / compartida con tu pareja]
 - **Imagen del alumnado:** [Añadir aquí después de la práctica o escribe «No aplica» si no preparaste la solución.]
@@ -194,14 +191,15 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 - **Archivo previsto:** `../assets/P03/02_proceso_tincion.jpg`
 - **Texto alternativo:** Aplicación del azul de metileno a la muestra en el portaobjetos.
-- **Pie de foto:** [Describe la aplicación del colorante y la preparación del portaobjetos.]
+- **Pie de foto:** No realizada
 - **Medida de seguridad o calidad que demuestra:** [Completa]
 - **Autoría:** [Propia / compartida con tu pareja]
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 3 — Campo microscópico teñido sin centrifugación
 
-- **Archivo previsto:** `../assets/P03/03_campo_tenido_sin_centrifugacion.jpg`
+- **Archivo previsto:** <img width="918" height="2040" alt="image" src="https://github.com/user-attachments/assets/3c595b45-afbe-4dfc-9b9b-b7a7770b5dcd" />
+
 - **Texto alternativo:** Campo microscópico de la preparación teñida sin centrifugación.
 - **Pie de foto:** [Describe el campo y registra el aumento utilizado.]
 - **Rasgo observado y limitación:** [Completa; evita identificar organismos sin evidencia suficiente]
@@ -210,7 +208,8 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 ### Imagen 4 — Proceso de centrifugación
 
-- **Archivo previsto:** `../assets/P03/04_proceso_centrifugacion.jpg`
+- **Archivo previsto:** <img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/fe0c46e2-e14c-4624-956e-6ccd3247965b" />
+
 - **Texto alternativo:** Tubo y centrífuga durante la preparación concentrada.
 - **Pie de foto:** [Indica el equipo y los parámetros validados por el centro; fotografía solo si está permitido y sin datos identificativos.]
 - **Control de seguridad o calidad visible:** [Completa]
@@ -220,7 +219,8 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 ### Imagen 5 — Campo microscópico teñido con centrifugación
 
-- **Archivo previsto:** `../assets/P03/05_campo_tenido_con_centrifugacion.jpg`
+- **Archivo previsto:** <img width="921" height="2048" alt="image" src="https://github.com/user-attachments/assets/a575f659-cbbe-406d-8d78-50a663bf8748" />
+
 - **Texto alternativo:** Campo microscópico de la preparación teñida tras centrifugación.
 - **Pie de foto:** [Describe el campo, identifica la fracción observada y registra el aumento.]
 - **Rasgo observado y limitación:** [Completa; no infieras movilidad ni viabilidad tras la concentración.]
@@ -232,7 +232,7 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias |  | | No |
 
 ## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -244,7 +244,7 @@ Interpreta los resultados de la tinción usando los controles de calidad, las ob
 
 Indica si alcanzaste el objetivo de preparar, observar y comparar la tinción vital directa con azul de metileno. Si realizaste la ruta centrifugada, describe por separado la preparación concentrada y teñida, y menciona sus límites. Sustenta tu conclusión con evidencias concretas.
 
-[Escribe aquí tu conclusión.]
+No, no había microorganismos
 
 ## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -252,19 +252,19 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** Al preparar o recibir la solución de azul de metileno al 0,5 % p/v, ¿qué comprobaste sobre la pesada, el volumen final de 100 mL, la etiqueta y la FDS? Si no la preparaste, indica quién proporcionó la solución y qué verificaste antes de usarla.
 
-   [Respuesta del alumnado]
+   La solución nos la proporcionó el profesor
 
 2. **Interpretación:** Compara los campos teñidos directo y tras centrifugación (imágenes 3 y 5), si realizaste ambas modalidades. ¿Qué diferencias de contraste o morfología observaste? Contrástalas con el anexo sin convertir la semejanza en una identificación confirmada; no infieras movilidad ni viabilidad tras centrifugar.
 
-   [Respuesta del alumnado]
+   Sin cambios
 
 3. **Conclusiones:** Comparando la misma muestra en fresco en P02 con la preparación teñida directa de P03, ¿qué información aporta cada modalidad y cuál permitió describir mejor los rasgos observados? Si también centrifugaste, explica qué añadió esa preparación y qué limitación tuvo. Sustenta la conclusión con tus evidencias reales.
 
-   [Respuesta del alumnado]
+   La tinción aportó mayor contraste y facilitó distinguir estructuras frente al fondo. Debe interpretarse con cautela el estado fisiológico, la movilidad, la viabilidad o posibles artefactos por colorante o centrifugación, y procede de una ejecución propia.
+   
+5. **Aprendizaje y transferencia:** ¿En qué situación elegirías observar la muestra sin tinción y sin centrifugar, sin tinción y centrifugada, teñida y sin centrifugar, o teñida y centrifugada? Justifica cada elección según el objetivo de observación y las limitaciones de la muestra; en la preparación centrifugada no infieras movilidad ni viabilidad.
 
-4. **Aprendizaje y transferencia:** ¿En qué situación elegirías observar la muestra sin tinción y sin centrifugar, sin tinción y centrifugada, teñida y sin centrifugar, o teñida y centrifugada? Justifica cada elección según el objetivo de observación y las limitaciones de la muestra; en la preparación centrifugada no infieras movilidad ni viabilidad.
-
-   [Respuesta del alumnado]
+  Sin tinción y sin centrifugar se usa para ver el estado nativo y la movilidad real (con bajo contraste o poca concentración); sin tinción y centrifugada concentra muestras diluidas sin añadir colorante, pero sin inferir movilidad ni viabilidad. Teñida y sin centrifugar mejora el contraste morfológico evitando el centrifugado (con posible efecto del colorante), y teñida y centrifugada concentra y tiñe a la vez, pero acumula artefactos y tampoco permite inferir movilidad ni viabilidad. 
 
 ## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -281,7 +281,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Interpretación | [Resume o enlaza al apartado 13] |
 | Incidencias y acciones correctoras | [Resume o enlaza al apartado 12] |
 | Ruta de residuos aplicada | [Completa] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Estado de entrega | Entregado  |
 
 ## Referencia técnica
 
